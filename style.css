@@ -1,4 +1,14 @@
-.paragraph {
-    color: green;
-    
+.navbar-text {
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #7d7d7d;
+margin-left: 200px;
+}
+
+.navbar-text:hover {
+  color: #03A9F4;
+  cursor: pointer;
 }
